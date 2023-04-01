@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kabuchoisaac" target="blank"><img src="https://img.shields.io/twitter/follow/kabuchoisaac?logo=twitter&style=for-the-badge" alt="kabuchoisaac" /></a> </p>
 
-- 🔭 I’m currently working on [multi-step-form](https://github.com/kabszac/multi-step-form)
+- 🔭 I’m currently working on [express node](https://github.com/kabszac/mycontacts-backend)
 
 - 🌱 I’m currently learning **Nodejs**
 
